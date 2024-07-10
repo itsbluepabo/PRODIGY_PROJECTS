@@ -1,7 +1,6 @@
 # Cat vs Dog Image Classification
 
-This project is the third task of the Prodigy Infotech internship. It involves building an image classification model to distinguish between images of cats and dogs using a dataset from Kaggle. The project includes the following steps:
-
+This project is the third task of the Prodigy Infotech internship. It involves building an image classification model to distinguish between images of cats and dogs using a dataset from Kaggle. 
 ## Introduction
 
 The goal is to create a machine learning model that can classify images of cats and dogs. The dataset used for this project is the Microsoft Cats vs. Dogs dataset, which contains images of cats and dogs in separate folders.
